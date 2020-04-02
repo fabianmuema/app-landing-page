@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Sass template
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
+vendor/jquery.cookie/test/
+vendor/modal-video/scss/
+vendor/modal-video/src/
+vendor/modal-video/test/
